@@ -1,0 +1,36 @@
+.cartCard {
+  max-width: 1024px;
+  margin: 0 auto;
+  min-height: 100%;
+  width: 100%;
+  //   border: 1px solid red;
+}
+
+.card {
+  //   border: 1px solid red;
+}
+
+.rating {
+  background-color: green;
+  max-width: 50px;
+  border-radius: 6px;
+  align-items: center;
+  padding: 2px 8px;
+}
+.count {
+  padding: 2px 8px;
+}
+
+.remove {
+  background: rgb(6, 24, 82);
+  color: white;
+  border-radius: 6px;
+}
+
+.buy {
+  width: 100%;
+  margin: 30px 6px;
+  background: rgb(43, 255, 0);
+  color: black;
+  font-weight: 600;
+}
